@@ -1,4 +1,4 @@
-# Openzeppelin's Role-Based-Access-Control Contract
+# Openzeppelin's Role-Based Access Control Contract
 
 This contract's original name in OpenZeppelin is `AccessControl.sol` but I preferred to use RBAC. Because according to OpenZeppelin docs:
 
